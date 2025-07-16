@@ -36,7 +36,7 @@ TMDB API – External API for accessing movie metadata and images.
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/react-movies.git
+git clone https://github.com/sachinkumar-14/movies-app.git
 cd react-movies
 
 ```
