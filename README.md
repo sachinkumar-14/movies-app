@@ -1,39 +1,40 @@
-🎬 Movie App
+## 🎬 Movie App
 A sleek and modern Movie App built with React.js, powered by Appwrite, and styled using Tailwind CSS. This application allows users to browse trending movies, search titles. It features a responsive, user-friendly interface and a clean, modular codebase designed for scalability and performance.
 
-🚀 Live Demo
+Live Demo
 👉 [Check out the live app here!](https://moviesverse-sachin.netlify.app/)
 
+### Tech Stack 
+- **React.js** – Component-based UI development with virtual DOM for performance.
 
-📦 Tech Stack 
-React.js – Component-based UI development with virtual DOM for performance.
+- **Appwrite** – Open-source backend platform offering authentication, database, and storage services.
 
-Appwrite – Open-source backend platform offering authentication, database, and storage services.
+- **Tailwind CSS** – Utility-first CSS framework for fast and responsive UI development.
 
-Tailwind CSS – Utility-first CSS framework for fast and responsive UI development.
+- **React-use** – A library of essential React hooks for cleaner and more efficient code.
 
-React-use – A library of essential React hooks for cleaner and more efficient code.
+- **Vite** – Lightning-fast build tool for modern frontend development with HMR support.
 
-Vite – Lightning-fast build tool for modern frontend development with HMR support.
+- **TMDB API** – External API for accessing movie metadata and images.
 
-TMDB API – External API for accessing movie metadata and images.
+## Features
+- **Search Movies** – Quickly find any movie using an intuitive search bar.
 
-## <a name="features">✨ Features</a>
-🔍 Search Movies – Quickly find any movie using an intuitive search bar.
+- **Browse All Movies** – Explore a wide range of movies from TMDB.
 
-🎞️ Browse All Movies – Explore a wide range of movies from TMDB.
+- **Trending Movies** – Displays trending titles based on a dynamic algorithm.
 
-📈 Trending Movies – Displays trending titles based on a dynamic algorithm.
+- **Responsive Design** – Fully responsive layout optimized for all devices.
 
-📱 Responsive Design – Fully responsive layout optimized for all devices.
+- **Modern UI/UX** – Clean, sleek design for an enjoyable user experience.
 
-🎨 Modern UI/UX – Clean, sleek design for an enjoyable user experience.
+- **Reusable Components** – Modular architecture for maintainable and scalable code.
 
-🧱 Reusable Components – Modular architecture for maintainable and scalable code.
+- **Efficient State Management** – Managed through React hooks and react-use.
 
-⚙️ Efficient State Management – Managed through React hooks and react-use.
+## Installation & Setup
 
-**Cloning the Repository**
+**Clone the Repository**
 
 ```bash
 git clone https://github.com/sachinkumar-14/movies-app.git
